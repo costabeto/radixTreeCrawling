@@ -9,6 +9,7 @@ After the indexing procedure, the program makes it possible to search for words 
 
 ### Requirements
 
+- [Java 8](https://www.java.com/download/ie_manual.jsp)
 - [Eclipse IDE](https://www.eclipse.org/)
 - [JSOUP(Crawling Library)](https://jsoup.org/download)
 - Sample book in `.txt` format
